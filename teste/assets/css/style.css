@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Neue';
-    src: url('assets/fonts/NeueMachina-Regular.otf') format('opentype');
+    src: url('../font/NeueMachina-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
     /*
